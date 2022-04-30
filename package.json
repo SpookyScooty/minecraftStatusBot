@@ -1,0 +1,16 @@
+{
+  "name": "discord-minecraft-bot",
+  "version": "1.0.0",
+  "description": "To monitor the Minecraft server at spooky.ddns.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SpookyScooty#2964",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "minecraft-motd-util": "^1.1.12",
+    "minecraft-server-util": "^5.2.9"
+  }
+}
